@@ -3,6 +3,8 @@ This is my exercise in JQuery, if you willing to use it feel free to report me t
 
 The folder contains a source of the Plugin and a demo file That you can see the Demo here in Github [Circle Info Box Plugin](https://htmlpreview.github.io/?https://github.com/soori8/CircleBoxInfo/blob/master/Demo/index.html).
 
+![Preview Image](preview.png)
+
 Just need to call function in one of your element like 
 ```sh
 $(Parent element).s8CircleInfoBox();
